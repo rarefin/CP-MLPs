@@ -20,8 +20,8 @@ All experiments are small and run on a CPU.
 ## Installation
 
 ```bash
-git clone <this repository>
-cd cpmlp-tensor-rank
+git clone https://github.com/rarefin/CP-MLPs.git
+cd CP-MLPs
 pip install -r requirements.txt
 ```
 
@@ -109,7 +109,8 @@ assets/               Figure 1 (PNG and its TikZ source)
   title     = {{CP-MLPs}: A Tensor-Rank Theory of Tied and Untied {MLP} Blocks},
   author    = {Arefin, Md Rifat and Heidari, Farzaneh and Rish, Irina and Rabusseau, Guillaume},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://github.com/rarefin/CP-MLPs}
 }
 ```
 
